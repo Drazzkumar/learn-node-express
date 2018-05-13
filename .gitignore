@@ -1,0 +1,5 @@
+rest-api/node_modules/
+rest-api/package-lock.json
+mongo-demo/node_modules/
+mongo-demo/package-lock.json
+.vscode
